@@ -1,15 +1,5 @@
-<p align="center">
-<br />
-<a href="https://thirdweb.com"><img src="https://github.com/thirdweb-dev/typescript-sdk/blob/main/logo.svg?raw=true" width="200" alt=""/></a>
-<br />
-</p>
-<h1 align="center">thirdweb Contracts</h1>
-<p align="center">
-<a href="https://www.npmjs.com/package/@thirdweb-dev/contracts"><img src="https://img.shields.io/npm/v/@thirdweb-dev/contracts?color=red&logo=npm" alt="npm version"/></a>
-<a href="https://github.com/thirdweb-dev/contracts/actions"><img alt="Build Status" src="https://github.com/thirdweb-dev/contracts/actions/workflows/tests.yml/badge.svg"/></a>
-<a href="https://discord.gg/thirdweb"><img alt="Join our Discord!" src="https://img.shields.io/discord/834227967404146718.svg?color=7289da&label=discord&logo=discord&style=flat"/></a>
 
-</p>
+
 <p align="center"><strong>Collection of smart contracts deployable via the thirdweb SDK, dashboard and CLI</strong></p>
 <br />
 
@@ -93,8 +83,6 @@ Some blocks come packaged together as Base Contracts, which come with a full set
 
 Other (smaller) blocks are Features, which provide a way for you to pick and choose which individual pieces you want to put into your contract; with full customization of how those features work. These are available at `contracts/extension/`.
 
-[Learn more about extensions](https://portal.thirdweb.com/extensions)
-
 ## Deployments
 
 The thirdweb registry (`TWRegistry`) and factory (`TWFactory`) have been deployed on the following chains:
@@ -135,14 +123,5 @@ The thirdweb registry (`TWRegistry`) and factory (`TWFactory`) have been deploye
 
 Found a security issue with our smart contracts? Send bug reports to security@thirdweb.com and we'll continue communicating with you from there. We're actively developing a bug bounty program; bug report payouts happen on a case by case basis, for now.
 
-## Feedback
 
-If you have any feedback, please reach out to us at support@thirdweb.com.
 
-## Authors
-
-- [thirdweb](https://thirdweb.com)
-
-## License
-
-[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
